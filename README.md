@@ -16,8 +16,8 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Unity" width="26px" src="https://github.com/LesLie-14/LesLie-14/blob/main/icons/unity.png?raw=true" />
-<img align="left" alt="C#" width="26px" src="https://github.com/LesLie-14/LesLie-14/blob/main/icons/c%23.png?raw=true" />
+[<img align="left" alt="Unity" width="26px" src="https://github.com/LesLie-14/LesLie-14/blob/main/icons/unity.png?raw=true" />][website]
+[<img align="left" alt="C#" width="26px" src="https://github.com/LesLie-14/LesLie-14/blob/main/icons/c%23.png?raw=true" />][website]
 
 <br />
 <br />
@@ -33,3 +33,4 @@
 
 [instagram]: https://instagram.com/lesliedizon14
 [linkedin]: https://www.linkedin.com/in/lesliedizon
+[website]: https://github.com/LesLie-14/LesLie-14
