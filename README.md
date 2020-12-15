@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Leslie | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Leslie | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Leslie | LinkedIn" width="22px" src="https://raw.githubusercontent.com/LesLie-14/LesLie-14/main/icons/linkedin.png?token=AKI2LU3CHDWIUUAY4MX2QHS74FEJU" />][linkedin]
+[<img align="left" alt="Leslie | Instagram" width="22px" src="https://raw.githubusercontent.com/LesLie-14/LesLie-14/main/icons/instagram.png?token=AKI2LUYHMBHHNFSKSLF6D4C74FEK4" />][instagram]
 
 <br />
 
