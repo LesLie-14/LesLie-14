@@ -4,7 +4,7 @@
 
 - 🎓 I recently finished Game Programming - an Advance Diploma Program at Centennial College, Canada this Fall 2020.
 - 🎓 I finished Bachelor of Science in Computer Science at Holy Angel University, Philippines on 2012.
-- 🎮 I have a strong passion for interactive games with strong computer programming skills and creativity.
+- 🎮 I have a passion for interactive games with strong computer programming skills and creativity.
 - 💻 I am an experienced Web Developer holding an extensive work experience of more than 5 years in the Information Technology Industry.
 - 🥅 2021 Goals: To create more games that has optimized, structured, and well-maintained code.
 - 📚 Fun fact: I love to read books.
