@@ -44,7 +44,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Stats:</summary>
 
   <img align="left" alt="Leslie's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Leslie-14&show_icons=true&hide_border=true" />
 
