@@ -32,6 +32,15 @@
 ---
 
 <details>
+  <summary>:zap: Recent Playable Web-GL Games:</summary>
+  
+1. 🩺 [Medi-Siege](https://leslie-14.github.io/Medi-Siege)
+2. 🐰 [Hop Hop Rabbit](https://leslie-14.github.io/HopHopRabbit)
+3. 🧙‍♂️ [Charm and Strange](https://github.com/LesLie-14/CharmAndStrange)
+
+</details>
+
+<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Leslie's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Leslie-14&show_icons=true&hide_border=true" />
